@@ -2,7 +2,7 @@
 % this is inspired by Michael Pollind's Awesome CV 
 % Created from scratch as a much simpler alternative to it to actually learn LaTeX.
 % Might be interpreted as an easier-to-edit or easier-to-understand-what-is-going-on version of it.
-\author{Murat Can Karacabey}
+\author{Aldo Franco Comas}
 \RequirePackage[dvipsnames]{xcolor} % moved here I guess article class causes option clash with xcolor if used after loading the class
 \LoadClass[11pt]{article}
 \NeedsTeXFormat{LaTeX2e}
