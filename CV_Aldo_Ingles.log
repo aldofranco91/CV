@@ -1,95 +1,21 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.12) (format=lualatex 2021.1.3)  17 JUN 2021 16:51
- restricted system commands enabled.
-**CV_Aldo_Ingles.tex
-(./CV_Aldo_Ingles.tex
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2021.5.13)  23 MAR 2022 19:02
+entering extended mode
+**./CV_Aldo_Ingles.tex
+(CV_Aldo_Ingles.tex
 LaTeX2e <2020-10-01> patch level 2
-Lua module: luaotfload-main 2020-09-02 3.15 luaotfload entry point
-Lua module: luaotfload-init 2020-09-02 3.15 luaotfload submodule / initializatio
-n
-Lua module: lualibs 2020-08-31 2.72 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2020-08-31 2.72 ConTeXt Lua libraries -- extended c
-ollection.
-Lua module: luaotfload-log 2020-09-02 3.15 luaotfload submodule / logging
-Lua module: luaotfload-parsers 2020-09-02 3.15 luaotfload submodule / parsers
-Lua module: luaotfload-configuration 2020-09-02 3.15 luaotfload submodule / conf
-ig file reader
-luaotfload | conf : Root cache directory is "C:/Users/AldoFranco/AppData/Local/M
-iKTeX/luatex-cache/generic/names".
-luaotfload | init : Loading fontloader "fontloader-2020-08-31.lua" from kpse-res
-olved path "C:/Program Files/MiKTeX/tex/luatex/luaotfload/fontloader-2020-08-31.
-lua".
-Lua-only attribute luaotfload@noligature = 1
-Lua-only attribute luaotfload@syllabe = 2
-luaotfload | init : Context OpenType loader version 0x1.8e353f7ced917p+1
-Lua module: luaotfload-fallback 2020-09-02 3.15 luaotfload submodule / fallback
-Lua module: luaotfload-multiscript 2020-09-02 3.15 luaotfload submodule / multis
-cript
-Lua module: luaotfload-script 2020-09-02 3.15 luaotfload submodule / Script help
-ers
-Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
-Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
-Inserting `luaotfload.glyph_stream' at position 1 in `glyph_stream_provider'.
-Lua module: luaotfload-loaders 2020-09-02 3.15 luaotfload submodule / callback h
-andling
-Inserting `luaotfload.define_font' at position 1 in `define_font'.
-Lua module: luaotfload-database 2020-09-02 3.15 luaotfload submodule / database
-Lua module: luaotfload-unicode 2020-09-02 3.15 luaotfload submodule / Unicode he
-lpers
-Lua module: luaotfload-colors 2020-09-02 3.15 luaotfload submodule / color
-Lua-only attribute luaotfload_color_attribute = 3
-Lua module: luaotfload-resolvers 2020-09-02 3.15 luaotfload submodule / resolver
-s
-luaotfload | conf : Root cache directory is "C:/Users/AldoFranco/AppData/Local/M
-iKTeX/luatex-cache/generic/names".
-Lua module: luaotfload-features 2020-09-02 3.15 luaotfload submodule / features
-Lua module: luaotfload-harf-define 2020-09-02 3.15 luaotfload submodule / HarfBu
-zz font loading
-Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
-Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
-Lua module: luaotfload-harf-plug 2020-09-02 3.15 luaotfload submodule / HarfBuzz
- shaping
-Inserting `Harf pre_output_filter callback' at position 1 in `pre_output_filter'
-.
-Inserting `Harf wrapup_run callback' at position 1 in `wrapup_run'.
-Inserting `Harf finish_pdffile callback' at position 1 in `finish_pdffile'.
-Inserting `Harf glyph_info callback' at position 1 in `glyph_info'.
-Lua module: luaotfload-letterspace 2020-09-02 3.15 luaotfload submodule / letter
-spacing
-Lua module: luaotfload-embolden 2020-09-02 3.15 luaotfload submodule / embolden
-Lua module: luaotfload-notdef 2020-09-02 3.15 luaotfload submodule / notdef
-Lua module: luaotfload-suppress 2020-09-02 3.15 luaotfload submodule / suppress
-Lua module: luaotfload-szss 2020-09-02 3.15 luaotfload submodule / Special featu
-re handling
-Lua module: luaotfload-auxiliary 2020-09-02 3.15 luaotfload submodule / auxiliar
-y functions
-Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
-font'.
-Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
-t'.
-Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch
-_font'.
-Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
-t_unsafe'.
-Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
-'.
-Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
-Lua module: luaotfload-tounicode 2020-09-02 3.15 luaotfload submodule / tounicod
-e
-Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
-. L3 programming layer <2020-12-07> xparse <2020-03-03> (./muratcan_cv.cls
-("C:/Program Files/MiKTeX/tex/latex/xcolor/xcolor.sty"
+L3 programming layer <2020-12-07> xparse <2020-03-03> (muratcan_cv.cls
+("C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:/Program Files/MiKTeX/tex/latex/graphics-cfg/color.cfg"
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: luatex.def on input line 225.
+Package xcolor Info: Driver file: xetex.def on input line 225.
 
-("C:/Program Files/MiKTeX/tex/latex/graphics-def/luatex.def"
-File: luatex.def 2020/10/05 v1.2a Graphics/color driver for luatex
+("C:\Program Files\MiKTeX\tex/latex/graphics-def\xetex.def"
+File: xetex.def 2020/08/26 v5.0i Graphics/color driver for xetex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
@@ -98,15 +24,14 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 
-("C:/Program Files/MiKTeX/tex/latex/graphics/dvipsnam.def"
+("C:\Program Files\MiKTeX\tex/latex/graphics\dvipsnam.def"
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
-("C:/Program Files/MiKTeX/tex/latex/base/article.cls"
+("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-("C:/Program Files/MiKTeX/tex/latex/base/size11.clo"
+("C:\Program Files\MiKTeX\tex/latex/base\size11.clo"
 File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from C:/Users/AldoFranco/AppData/Lo
-cal/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc)
+)
 \c@part=\count173
 \c@section=\count174
 \c@subsection=\count175
@@ -120,77 +45,95 @@ cal/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc)
 \bibindent=\dimen138
 )
 Document Class: muratcan_cv 2020/04/15 Muratcan CV Class
-("C:/Program Files/MiKTeX/tex/latex/noto/noto.sty"
-Package: noto 2019/10/22 (Bob Tennent) Supports Noto fonts for all LaTeX engines
-.
+("C:\Program Files\MiKTeX\tex/latex/noto\noto.sty"
+Package: noto 2019/10/22 (Bob Tennent) Supports Noto fonts for all LaTeX engine
+s.
 
-("C:/Program Files/MiKTeX/tex/generic/iftex/ifxetex.sty"
+("C:\Program Files\MiKTeX\tex/generic/iftex\ifxetex.sty"
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 
-("C:/Program Files/MiKTeX/tex/generic/iftex/iftex.sty"
+("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-("C:/Program Files/MiKTeX/tex/generic/iftex/ifluatex.sty"
+("C:\Program Files\MiKTeX\tex/generic/iftex\ifluatex.sty"
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-("C:/Program Files/MiKTeX/tex/latex/xkeyval/xkeyval.sty"
+("C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty"
 Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
-("C:/Program Files/MiKTeX/tex/generic/xkeyval/xkeyval.tex"
-("C:/Program Files/MiKTeX/tex/generic/xkeyval/xkvutils.tex"
+("C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex"
 \XKV@toks=\toks15
 \XKV@tempa@toks=\toks16
 
-("C:/Program Files/MiKTeX/tex/generic/xkeyval/keyval.tex"))
+("C:\Program Files\MiKTeX\tex/generic/xkeyval\keyval.tex"))
 \XKV@depth=\count181
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-("C:/Program Files/MiKTeX/tex/latex/base/textcomp.sty"
+("C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty"
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
-("C:/Program Files/MiKTeX/tex/latex/fontspec/fontspec.sty"
-("C:/Program Files/MiKTeX/tex/latex/l3packages/xparse/xparse.sty"
-("C:/Program Files/MiKTeX/tex/latex/l3kernel/expl3.sty"
+("C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec.sty"
+("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty"
+("C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty"
 Package: expl3 2020-12-07 L3 programming layer (loader) 
 
-("C:/Program Files/MiKTeX/tex/latex/l3backend/l3backend-luatex.def"
-File: l3backend-luatex.def 2020-09-24 L3 backend support: PDF output (LuaTeX)
-\l__kernel_color_stack_int=\count182
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-xetex.def"
+File: l3backend-xetex.def 2020-09-24 L3 backend support: XeTeX
+\g__graphics_track_int=\count182
 \l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count183
+\g__pdf_backend_annotation_int=\count184
 ))
 Package: xparse 2020-10-27 L3 Experimental document command parser
 
-("C:/Program Files/MiKTeX/tex/latex/l3packages/xparse/xparse-generic.tex"))
+("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex"))
 Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2020/02/21 2.7i Font selection for XeLaTeX and LuaLaTeX
-("C:/Program Files/MiKTeX/tex/latex/fontspec/fontspec-luatex.sty"
-Package: fontspec-luatex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+
+("C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec-xetex.sty"
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count183
-\l__fontspec_language_int=\count184
-\l__fontspec_strnum_int=\count185
-\l__fontspec_tmp_int=\count186
-\l__fontspec_tmpa_int=\count187
-\l__fontspec_tmpb_int=\count188
-\l__fontspec_tmpc_int=\count189
-\l__fontspec_em_int=\count190
-\l__fontspec_emdef_int=\count191
-\l__fontspec_strong_int=\count192
-\l__fontspec_strongdef_int=\count193
+\l__fontspec_script_int=\count185
+\l__fontspec_language_int=\count186
+\l__fontspec_strnum_int=\count187
+\l__fontspec_tmp_int=\count188
+\l__fontspec_tmpa_int=\count189
+\l__fontspec_tmpb_int=\count190
+\l__fontspec_tmpc_int=\count191
+\l__fontspec_em_int=\count192
+\l__fontspec_emdef_int=\count193
+\l__fontspec_strong_int=\count194
+\l__fontspec_strongdef_int=\count195
 \l__fontspec_tmpa_dim=\dimen139
 \l__fontspec_tmpb_dim=\dimen140
 \l__fontspec_tmpc_dim=\dimen141
 
-("C:/Program Files/MiKTeX/tex/latex/base/fontenc.sty"
+("C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty"
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 )
-("C:/Program Files/MiKTeX/tex/latex/fontspec/fontspec.cfg")))
+("C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec.cfg")))
+Requested font "[NotoSans-Regular.ttf]/OT" at 10.94997pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Regular.ttf
+Requested font "[NotoSans-Regular.ttf]/OT" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Regular.ttf
+Requested font "[NotoSans-Regular.ttf]/OT:script=latn;language=dflt;" at 10.950
+03pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Regular.ttf
+Requested font "[NotoSans-Bold.ttf]/OT:script=latn;language=dflt;" at 10.95003p
+t
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Bold.ttf
+Requested font "[NotoSans-Italic.ttf]/OT:script=latn;language=dflt;" at 10.9500
+3pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Italic.ttf
+Requested font "[NotoSans-BoldItalic.ttf]/OT:script=latn;language=dflt;" at 10.
+95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-BoldItalic.ttf
 
 Package fontspec Info: Font family 'NotoSans(0)' created for font 'NotoSans'
 (fontspec)             with options [Ligatures = TeX,Extension =
 (fontspec)             .ttf,Ligatures=TeX,Scale = 1,Numbers = {Monospaced,
-(fontspec)             Lining},SmallCapsFeatures={Letters=SmallCaps},UprightFont
-
+(fontspec)             Lining},SmallCapsFeatures={Letters=SmallCaps},UprightFon
+t
 (fontspec)             = *-Regular,ItalicFont = *-Italic,BoldFont =
 (fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
 (fontspec)              
@@ -198,36 +141,52 @@ Package fontspec Info: Font family 'NotoSans(0)' created for font 'NotoSans'
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-Regular.ttf]:mode=node;script=latn;lan
-guage=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-Regular.ttf]/OT:script=latn;language=
+dflt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-Regular.ttf]:mode=node;script=latn;lan
-guage=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-Regular.ttf]/OT:script=latn;language=
+dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-Bold.ttf]:mode=node;script=latn;langua
-ge=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-Bold.ttf]/OT:script=latn;language=dfl
+t;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-Bold.ttf]:mode=node;script=latn;langua
-ge=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-Bold.ttf]/OT:script=latn;language=dfl
+t;+tnum;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-Italic.ttf]:mode=node;script=latn;lang
-uage=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-Italic.ttf]/OT:script=latn;language=d
+flt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-Italic.ttf]:mode=node;script=latn;lang
-uage=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-Italic.ttf]/OT:script=latn;language=d
+flt;+tnum;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-BoldItalic.ttf]:mode=node;script=latn;
-language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-BoldItalic.ttf]/OT:script=latn;langua
+ge=dflt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-BoldItalic.ttf]:mode=node;script=latn;
-language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-BoldItalic.ttf]/OT:script=latn;langua
+ge=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
 
+Requested font "[NotoSerif-Regular.ttf]/OT" at 10.94997pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSerif-Regular.ttf
+Requested font "[NotoSerif-Regular.ttf]/OT" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSerif-Regular.ttf
+Requested font "[NotoSerif-Regular.ttf]/OT:script=latn;language=dflt;" at 10.95
+003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSerif-Regular.ttf
+Requested font "[NotoSerif-Bold.ttf]/OT:script=latn;language=dflt;" at 10.95003
+pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSerif-Bold.ttf
+Requested font "[NotoSerif-Italic.ttf]/OT:script=latn;language=dflt;" at 10.950
+03pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSerif-Italic.ttf
+Requested font "[NotoSerif-BoldItalic.ttf]/OT:script=latn;language=dflt;" at 10
+.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSerif-BoldItalic.ttf
 
 Package fontspec Info: Font family 'NotoSerif(0)' created for font 'NotoSerif'
 (fontspec)             with options [Ligatures = TeX,Extension =
 (fontspec)             .ttf,Ligatures=TeX,Numbers = {Monospaced,
-(fontspec)             Lining},SmallCapsFeatures={Letters=SmallCaps},UprightFont
-
+(fontspec)             Lining},SmallCapsFeatures={Letters=SmallCaps},UprightFon
+t
 (fontspec)             = *-Regular,ItalicFont = *-Italic,BoldFont =
 (fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
 (fontspec)              
@@ -235,36 +194,49 @@ Package fontspec Info: Font family 'NotoSerif(0)' created for font 'NotoSerif'
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[NotoSerif-Regular.ttf]:mode=node;script=latn;languag
-e=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->"[NotoSerif-Regular.ttf]/OT:script=latn;language=dflt
+;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->"[NotoSerif-Regular.ttf]:mode=node;script=latn;languag
-e=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->"[NotoSerif-Regular.ttf]/OT:script=latn;language=dflt
+;+tnum;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"[NotoSerif-Bold.ttf]:mode=node;script=latn;language=d
-flt;+tlig;+tnum;+lnum;"
+(fontspec)             <->"[NotoSerif-Bold.ttf]/OT:script=latn;language=dflt;+t
+num;+lnum;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->"[NotoSerif-Bold.ttf]:mode=node;script=latn;language=d
-flt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->"[NotoSerif-Bold.ttf]/OT:script=latn;language=dflt;+t
+num;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"[NotoSerif-Italic.ttf]:mode=node;script=latn;language
-=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->"[NotoSerif-Italic.ttf]/OT:script=latn;language=dflt;
++tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->"[NotoSerif-Italic.ttf]:mode=node;script=latn;language
-=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->"[NotoSerif-Italic.ttf]/OT:script=latn;language=dflt;
++tnum;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"[NotoSerif-BoldItalic.ttf]:mode=node;script=latn;lang
-uage=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->"[NotoSerif-BoldItalic.ttf]/OT:script=latn;language=d
+flt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->"[NotoSerif-BoldItalic.ttf]:mode=node;script=latn;lang
-uage=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->"[NotoSerif-BoldItalic.ttf]/OT:script=latn;language=d
+flt;+tnum;+lnum;+smcp;mapping=tex-text;"
 
+Requested font "[NotoSerif-Regular.ttf]/OT:script=latn;language=dflt;+tnum;+lnu
+m;mapping=tex-text;" at 10.95pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSerif-Regular.ttf
+Requested font "[NotoSansMono-Regular.ttf]/OT" at 10.94997pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSansMono-Regular.ttf
+Requested font "[NotoSansMono-Regular.ttf]/OT" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSansMono-Regular.ttf
+Requested font "[NotoSansMono-Regular.ttf]/OT:script=latn;language=dflt;" at 10
+.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSansMono-Regular.ttf
+Requested font "[NotoSansMono-Bold.ttf]/OT:script=latn;language=dflt;" at 10.95
+003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSansMono-Bold.ttf
 
 Package fontspec Info: Font family 'NotoSansMono(0)' created for font
 (fontspec)             'NotoSansMono' with options [Ligatures = TeX,Extension
 (fontspec)             =
-(fontspec)             .ttf,WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=W
-ordSpace,Numbers
+(fontspec)             .ttf,WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=
+WordSpace,Numbers
 (fontspec)             = {},Scale = 1,Ligatures =
 (fontspec)             CommonOff,HyphenChar=None,UprightFont =
 (fontspec)             *-Regular,BoldFont = *-Bold].
@@ -273,11 +245,11 @@ ordSpace,Numbers
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-Regular.ttf]:mode=node;script=latn
-;language=dflt;+tlig;-liga;"
+(fontspec)             <->s*[1]"[NotoSansMono-Regular.ttf]/OT:script=latn;langu
+age=dflt;-liga;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-Regular.ttf]:mode=node;script=latn
-;language=dflt;+tlig;-liga;+smcp;"
+(fontspec)             <->s*[1]"[NotoSansMono-Regular.ttf]/OT:script=latn;langu
+age=dflt;-liga;+smcp;mapping=tex-text;"
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
 (fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
@@ -285,11 +257,11 @@ ordSpace,Numbers
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop:
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-Bold.ttf]:mode=node;script=latn;la
-nguage=dflt;+tlig;-liga;"
+(fontspec)             <->s*[1]"[NotoSansMono-Bold.ttf]/OT:script=latn;language
+=dflt;-liga;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-Bold.ttf]:mode=node;script=latn;la
-nguage=dflt;+tlig;-liga;+smcp;"
+(fontspec)             <->s*[1]"[NotoSansMono-Bold.ttf]/OT:script=latn;language
+=dflt;-liga;+smcp;mapping=tex-text;"
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
 (fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
@@ -301,8 +273,8 @@ nguage=dflt;+tlig;-liga;+smcp;"
 Package fontspec Info: Font family 'NotoSans(1)' created for font 'NotoSans'
 (fontspec)             with options [Ligatures = TeX,Extension = .ttf,Scale =
 (fontspec)             1,Numbers = {Monospaced,
-(fontspec)             Lining},SmallCapsFeatures={Letters=SmallCaps},UprightFont
-
+(fontspec)             Lining},SmallCapsFeatures={Letters=SmallCaps},UprightFon
+t
 (fontspec)             = *-Regular,ItalicFont = *-Italic,BoldFont =
 (fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
 (fontspec)              
@@ -310,36 +282,55 @@ Package fontspec Info: Font family 'NotoSans(1)' created for font 'NotoSans'
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-Regular.ttf]:mode=node;script=latn;lan
-guage=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-Regular.ttf]/OT:script=latn;language=
+dflt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-Regular.ttf]:mode=node;script=latn;lan
-guage=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-Regular.ttf]/OT:script=latn;language=
+dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-Bold.ttf]:mode=node;script=latn;langua
-ge=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-Bold.ttf]/OT:script=latn;language=dfl
+t;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-Bold.ttf]:mode=node;script=latn;langua
-ge=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-Bold.ttf]/OT:script=latn;language=dfl
+t;+tnum;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-Italic.ttf]:mode=node;script=latn;lang
-uage=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-Italic.ttf]/OT:script=latn;language=d
+flt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-Italic.ttf]:mode=node;script=latn;lang
-uage=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-Italic.ttf]/OT:script=latn;language=d
+flt;+tnum;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-BoldItalic.ttf]:mode=node;script=latn;
-language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-BoldItalic.ttf]/OT:script=latn;langua
+ge=dflt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-BoldItalic.ttf]:mode=node;script=latn;
-language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-BoldItalic.ttf]/OT:script=latn;langua
+ge=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
 
+Requested font "[NotoSans-Condensed.ttf]/OT" at 10.94997pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Condensed.ttf
+Requested font "[NotoSans-Condensed.ttf]/OT" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Condensed.ttf
+Requested font "[NotoSans-Condensed.ttf]/OT:script=latn;language=dflt;" at 10.9
+5003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Condensed.ttf
+Requested font "[NotoSans-CondensedBold.ttf]/OT:script=latn;language=dflt;" at 
+10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-CondensedBold.t
+tf
+Requested font "[NotoSans-CondensedItalic.ttf]/OT:script=latn;language=dflt;" a
+t 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-CondensedItalic
+.ttf
+Requested font "[NotoSans-CondensedBoldItalic.ttf]/OT:script=latn;language=dflt
+;" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-CondensedBoldIt
+alic.ttf
 
 Package fontspec Info: Font family 'NotoSans-Condensed(0)' created for font
 (fontspec)             'NotoSans-Condensed' with options [Ligatures =
 (fontspec)             TeX,Extension = .ttf,Scale = 1,Numbers = {Monospaced,
-(fontspec)             Lining},SmallCapsFeatures={Letters=SmallCaps},UprightFont
-
+(fontspec)             Lining},SmallCapsFeatures={Letters=SmallCaps},UprightFon
+t
 (fontspec)             = *,ItalicFont = *Italic,BoldFont =
 (fontspec)             *Bold,BoldItalicFont = *BoldItalic].
 (fontspec)              
@@ -347,36 +338,58 @@ Package fontspec Info: Font family 'NotoSans-Condensed(0)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-Condensed.ttf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-Condensed.ttf]/OT:script=latn;languag
+e=dflt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-Condensed.ttf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-Condensed.ttf]/OT:script=latn;languag
+e=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-CondensedBold.ttf]:mode=node;script=la
-tn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-CondensedBold.ttf]/OT:script=latn;lan
+guage=dflt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-CondensedBold.ttf]:mode=node;script=la
-tn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-CondensedBold.ttf]/OT:script=latn;lan
+guage=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-CondensedItalic.ttf]:mode=node;script=
-latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-CondensedItalic.ttf]/OT:script=latn;l
+anguage=dflt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-CondensedItalic.ttf]:mode=node;script=
-latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-CondensedItalic.ttf]/OT:script=latn;l
+anguage=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-CondensedBoldItalic.ttf]:mode=node;scr
-ipt=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-CondensedBoldItalic.ttf]/OT:script=la
+tn;language=dflt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-CondensedBoldItalic.ttf]:mode=node;scr
-ipt=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-CondensedBoldItalic.ttf]/OT:script=la
+tn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
 
+Requested font "[NotoSans-SemiCondensed.ttf]/OT" at 10.94997pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-SemiCondensed.t
+tf
+Requested font "[NotoSans-SemiCondensed.ttf]/OT" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-SemiCondensed.t
+tf
+Requested font "[NotoSans-SemiCondensed.ttf]/OT:script=latn;language=dflt;" at 
+10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-SemiCondensed.t
+tf
+Requested font "[NotoSans-SemiCondensedBold.ttf]/OT:script=latn;language=dflt;"
+ at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-SemiCondensedBo
+ld.ttf
+Requested font "[NotoSans-SemiCondensedItalic.ttf]/OT:script=latn;language=dflt
+;" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-SemiCondensedIt
+alic.ttf
+Requested font "[NotoSans-SemiCondensedBoldItalic.ttf]/OT:script=latn;language=
+dflt;" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-SemiCondensedBo
+ldItalic.ttf
 
 Package fontspec Info: Font family 'NotoSans-SemiCondensed(0)' created for
 (fontspec)             font 'NotoSans-SemiCondensed' with options [Ligatures =
 (fontspec)             TeX,Extension = .ttf,Scale = 1,Numbers = {Monospaced,
-(fontspec)             Lining},SmallCapsFeatures={Letters=SmallCaps},UprightFont
-
+(fontspec)             Lining},SmallCapsFeatures={Letters=SmallCaps},UprightFon
+t
 (fontspec)             = *,ItalicFont = *Italic,BoldFont =
 (fontspec)             *Bold,BoldItalicFont = *BoldItalic].
 (fontspec)              
@@ -384,36 +397,58 @@ Package fontspec Info: Font family 'NotoSans-SemiCondensed(0)' created for
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-SemiCondensed.ttf]:mode=node;script=la
-tn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-SemiCondensed.ttf]/OT:script=latn;lan
+guage=dflt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-SemiCondensed.ttf]:mode=node;script=la
-tn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-SemiCondensed.ttf]/OT:script=latn;lan
+guage=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-SemiCondensedBold.ttf]:mode=node;scrip
-t=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-SemiCondensedBold.ttf]/OT:script=latn
+;language=dflt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-SemiCondensedBold.ttf]:mode=node;scrip
-t=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-SemiCondensedBold.ttf]/OT:script=latn
+;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-SemiCondensedItalic.ttf]:mode=node;scr
-ipt=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-SemiCondensedItalic.ttf]/OT:script=la
+tn;language=dflt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-SemiCondensedItalic.ttf]:mode=node;scr
-ipt=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-SemiCondensedItalic.ttf]/OT:script=la
+tn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-SemiCondensedBoldItalic.ttf]:mode=node
-;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-SemiCondensedBoldItalic.ttf]/OT:scrip
+t=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-SemiCondensedBoldItalic.ttf]:mode=node
-;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-SemiCondensedBoldItalic.ttf]/OT:scrip
+t=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
 
+Requested font "[NotoSans-ExtraCondensed.ttf]/OT" at 10.94997pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-ExtraCondensed.
+ttf
+Requested font "[NotoSans-ExtraCondensed.ttf]/OT" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-ExtraCondensed.
+ttf
+Requested font "[NotoSans-ExtraCondensed.ttf]/OT:script=latn;language=dflt;" at
+ 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-ExtraCondensed.
+ttf
+Requested font "[NotoSans-ExtraCondensedBold.ttf]/OT:script=latn;language=dflt;
+" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-ExtraCondensedB
+old.ttf
+Requested font "[NotoSans-ExtraCondensedItalic.ttf]/OT:script=latn;language=dfl
+t;" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-ExtraCondensedI
+talic.ttf
+Requested font "[NotoSans-ExtraCondensedBoldItalic.ttf]/OT:script=latn;language
+=dflt;" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-ExtraCondensedB
+oldItalic.ttf
 
 Package fontspec Info: Font family 'NotoSans-ExtraCondensed(0)' created for
 (fontspec)             font 'NotoSans-ExtraCondensed' with options [Ligatures
 (fontspec)             = TeX,Extension = .ttf,Scale = 1,Numbers = {Monospaced,
-(fontspec)             Lining},SmallCapsFeatures={Letters=SmallCaps},UprightFont
-
+(fontspec)             Lining},SmallCapsFeatures={Letters=SmallCaps},UprightFon
+t
 (fontspec)             = *,ItalicFont = *Italic,BoldFont =
 (fontspec)             *Bold,BoldItalicFont = *BoldItalic].
 (fontspec)              
@@ -421,36 +456,36 @@ Package fontspec Info: Font family 'NotoSans-ExtraCondensed(0)' created for
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-ExtraCondensed.ttf]:mode=node;script=l
-atn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-ExtraCondensed.ttf]/OT:script=latn;la
+nguage=dflt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-ExtraCondensed.ttf]:mode=node;script=l
-atn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-ExtraCondensed.ttf]/OT:script=latn;la
+nguage=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-ExtraCondensedBold.ttf]:mode=node;scri
-pt=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-ExtraCondensedBold.ttf]/OT:script=lat
+n;language=dflt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-ExtraCondensedBold.ttf]:mode=node;scri
-pt=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-ExtraCondensedBold.ttf]/OT:script=lat
+n;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-ExtraCondensedItalic.ttf]:mode=node;sc
-ript=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-ExtraCondensedItalic.ttf]/OT:script=l
+atn;language=dflt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-ExtraCondensedItalic.ttf]:mode=node;sc
-ript=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-ExtraCondensedItalic.ttf]/OT:script=l
+atn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-ExtraCondensedBoldItalic.ttf]:mode=nod
-e;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->s*[1]"[NotoSans-ExtraCondensedBoldItalic.ttf]/OT:scri
+pt=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSans-ExtraCondensedBoldItalic.ttf]:mode=nod
-e;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->s*[1]"[NotoSans-ExtraCondensedBoldItalic.ttf]/OT:scri
+pt=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
 
 
 Package fontspec Info: Font family 'NotoSerif(1)' created for font 'NotoSerif'
 (fontspec)             with options [Ligatures = TeX,Extension = .ttf,Numbers
 (fontspec)             = {Monospaced,
-(fontspec)             Lining},SmallCapsFeatures={Letters=SmallCaps},UprightFont
-
+(fontspec)             Lining},SmallCapsFeatures={Letters=SmallCaps},UprightFon
+t
 (fontspec)             = *-Regular,ItalicFont = *-Italic,BoldFont =
 (fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
 (fontspec)              
@@ -458,29 +493,29 @@ Package fontspec Info: Font family 'NotoSerif(1)' created for font 'NotoSerif'
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[NotoSerif-Regular.ttf]:mode=node;script=latn;languag
-e=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->"[NotoSerif-Regular.ttf]/OT:script=latn;language=dflt
+;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->"[NotoSerif-Regular.ttf]:mode=node;script=latn;languag
-e=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->"[NotoSerif-Regular.ttf]/OT:script=latn;language=dflt
+;+tnum;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"[NotoSerif-Bold.ttf]:mode=node;script=latn;language=d
-flt;+tlig;+tnum;+lnum;"
+(fontspec)             <->"[NotoSerif-Bold.ttf]/OT:script=latn;language=dflt;+t
+num;+lnum;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->"[NotoSerif-Bold.ttf]:mode=node;script=latn;language=d
-flt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->"[NotoSerif-Bold.ttf]/OT:script=latn;language=dflt;+t
+num;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"[NotoSerif-Italic.ttf]:mode=node;script=latn;language
-=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->"[NotoSerif-Italic.ttf]/OT:script=latn;language=dflt;
++tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->"[NotoSerif-Italic.ttf]:mode=node;script=latn;language
-=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->"[NotoSerif-Italic.ttf]/OT:script=latn;language=dflt;
++tnum;+lnum;+smcp;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"[NotoSerif-BoldItalic.ttf]:mode=node;script=latn;lang
-uage=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             <->"[NotoSerif-BoldItalic.ttf]/OT:script=latn;language=d
+flt;+tnum;+lnum;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->"[NotoSerif-BoldItalic.ttf]:mode=node;script=latn;lang
-uage=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             <->"[NotoSerif-BoldItalic.ttf]/OT:script=latn;language=d
+flt;+tnum;+lnum;+smcp;mapping=tex-text;"
 
 
 Package fontspec Info: Font family 'NotoSansMono(1)' created for font
@@ -492,22 +527,36 @@ Package fontspec Info: Font family 'NotoSansMono(1)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-Regular.ttf]:mode=node;script=latn
-;language=dflt;-liga;"
+(fontspec)             <->s*[1]"[NotoSansMono-Regular.ttf]/OT:script=latn;langu
+age=dflt;-liga;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-Regular.ttf]:mode=node;script=latn
-;language=dflt;-liga;+smcp;"
+(fontspec)             <->s*[1]"[NotoSansMono-Regular.ttf]/OT:script=latn;langu
+age=dflt;-liga;+smcp;"
 (fontspec)             and font adjustment code:
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-Bold.ttf]:mode=node;script=latn;la
-nguage=dflt;-liga;"
+(fontspec)             <->s*[1]"[NotoSansMono-Bold.ttf]/OT:script=latn;language
+=dflt;-liga;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-Bold.ttf]:mode=node;script=latn;la
-nguage=dflt;-liga;+smcp;"
+(fontspec)             <->s*[1]"[NotoSansMono-Bold.ttf]/OT:script=latn;language
+=dflt;-liga;+smcp;"
 (fontspec)             and font adjustment code:
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
+Requested font "[NotoSansMono-Condensed.ttf]/OT" at 10.94997pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSansMono-Condensed.t
+tf
+Requested font "[NotoSansMono-Condensed.ttf]/OT" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSansMono-Condensed.t
+tf
+Requested font "[NotoSansMono-Condensed.ttf]/OT:script=latn;language=dflt;" at 
+10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSansMono-Condensed.t
+tf
+Requested font "[NotoSansMono-CondensedBold.ttf]/OT:script=latn;language=dflt;"
+ at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSansMono-CondensedBo
+ld.ttf
 
 Package fontspec Info: Font family 'NotoSansMono-Condensed(0)' created for
 (fontspec)             font 'NotoSansMono-Condensed' with options
@@ -519,22 +568,36 @@ Package fontspec Info: Font family 'NotoSansMono-Condensed(0)' created for
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-Condensed.ttf]:mode=node;script=la
-tn;language=dflt;-liga;"
+(fontspec)             <->s*[1]"[NotoSansMono-Condensed.ttf]/OT:script=latn;lan
+guage=dflt;-liga;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-Condensed.ttf]:mode=node;script=la
-tn;language=dflt;-liga;+smcp;"
+(fontspec)             <->s*[1]"[NotoSansMono-Condensed.ttf]/OT:script=latn;lan
+guage=dflt;-liga;+smcp;"
 (fontspec)             and font adjustment code:
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-CondensedBold.ttf]:mode=node;scrip
-t=latn;language=dflt;-liga;"
+(fontspec)             <->s*[1]"[NotoSansMono-CondensedBold.ttf]/OT:script=latn
+;language=dflt;-liga;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-CondensedBold.ttf]:mode=node;scrip
-t=latn;language=dflt;-liga;+smcp;"
+(fontspec)             <->s*[1]"[NotoSansMono-CondensedBold.ttf]/OT:script=latn
+;language=dflt;-liga;+smcp;"
 (fontspec)             and font adjustment code:
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
+Requested font "[NotoSansMono-SemiCondensed.ttf]/OT" at 10.94997pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSansMono-SemiCondens
+ed.ttf
+Requested font "[NotoSansMono-SemiCondensed.ttf]/OT" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSansMono-SemiCondens
+ed.ttf
+Requested font "[NotoSansMono-SemiCondensed.ttf]/OT:script=latn;language=dflt;"
+ at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSansMono-SemiCondens
+ed.ttf
+Requested font "[NotoSansMono-SemiCondensedBold.ttf]/OT:script=latn;language=df
+lt;" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSansMono-SemiCondens
+edBold.ttf
 
 Package fontspec Info: Font family 'NotoSansMono-SemiCondensed(0)' created for
 (fontspec)             font 'NotoSansMono-SemiCondensed' with options
@@ -546,22 +609,36 @@ Package fontspec Info: Font family 'NotoSansMono-SemiCondensed(0)' created for
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-SemiCondensed.ttf]:mode=node;scrip
-t=latn;language=dflt;-liga;"
+(fontspec)             <->s*[1]"[NotoSansMono-SemiCondensed.ttf]/OT:script=latn
+;language=dflt;-liga;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-SemiCondensed.ttf]:mode=node;scrip
-t=latn;language=dflt;-liga;+smcp;"
+(fontspec)             <->s*[1]"[NotoSansMono-SemiCondensed.ttf]/OT:script=latn
+;language=dflt;-liga;+smcp;"
 (fontspec)             and font adjustment code:
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-SemiCondensedBold.ttf]:mode=node;s
-cript=latn;language=dflt;-liga;"
+(fontspec)             <->s*[1]"[NotoSansMono-SemiCondensedBold.ttf]/OT:script=
+latn;language=dflt;-liga;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-SemiCondensedBold.ttf]:mode=node;s
-cript=latn;language=dflt;-liga;+smcp;"
+(fontspec)             <->s*[1]"[NotoSansMono-SemiCondensedBold.ttf]/OT:script=
+latn;language=dflt;-liga;+smcp;"
 (fontspec)             and font adjustment code:
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
+Requested font "[NotoSansMono-ExtraCondensed.ttf]/OT" at 10.94997pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSansMono-ExtraConden
+sed.ttf
+Requested font "[NotoSansMono-ExtraCondensed.ttf]/OT" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSansMono-ExtraConden
+sed.ttf
+Requested font "[NotoSansMono-ExtraCondensed.ttf]/OT:script=latn;language=dflt;
+" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSansMono-ExtraConden
+sed.ttf
+Requested font "[NotoSansMono-ExtraCondensedBold.ttf]/OT:script=latn;language=d
+flt;" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSansMono-ExtraConden
+sedBold.ttf
 
 Package fontspec Info: Font family 'NotoSansMono-ExtraCondensed(0)' created
 (fontspec)             for font 'NotoSansMono-ExtraCondensed' with options
@@ -573,52 +650,53 @@ Package fontspec Info: Font family 'NotoSansMono-ExtraCondensed(0)' created
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-ExtraCondensed.ttf]:mode=node;scri
-pt=latn;language=dflt;-liga;"
+(fontspec)             <->s*[1]"[NotoSansMono-ExtraCondensed.ttf]/OT:script=lat
+n;language=dflt;-liga;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-ExtraCondensed.ttf]:mode=node;scri
-pt=latn;language=dflt;-liga;+smcp;"
+(fontspec)             <->s*[1]"[NotoSansMono-ExtraCondensed.ttf]/OT:script=lat
+n;language=dflt;-liga;+smcp;"
 (fontspec)             and font adjustment code:
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-ExtraCondensedBold.ttf]:mode=node;
-script=latn;language=dflt;-liga;"
+(fontspec)             <->s*[1]"[NotoSansMono-ExtraCondensedBold.ttf]/OT:script
+=latn;language=dflt;-liga;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[NotoSansMono-ExtraCondensedBold.ttf]:mode=node;
-script=latn;language=dflt;-liga;+smcp;"
+(fontspec)             <->s*[1]"[NotoSansMono-ExtraCondensedBold.ttf]/OT:script
+=latn;language=dflt;-liga;+smcp;"
 (fontspec)             and font adjustment code:
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
 )
-("C:/Program Files/MiKTeX/tex/latex/etoolbox/etoolbox.sty"
+("C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty"
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count194
+\etb@tempcnta=\count196
 )
-("C:/Program Files/MiKTeX/tex/latex/pgf/utilities/pgffor.sty"
-("C:/Program Files/MiKTeX/tex/latex/pgf/utilities/pgfrcs.sty"
-("C:/Program Files/MiKTeX/tex/generic/pgf/utilities/pgfutil-common.tex"
+("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty"
+("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty"
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex"
 \pgfutil@everybye=\toks17
 \pgfutil@tempdima=\dimen142
 \pgfutil@tempdimb=\dimen143
 
-("C:/Program Files/MiKTeX/tex/generic/pgf/utilities/pgfutil-common-lists.tex")) ("C:/Program Files/MiKTeX/tex/generic/pgf/utilities/pgfutil-latex.def"
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex"))
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def"
 \pgfutil@abb=\box48
 )
-("C:/Program Files/MiKTeX/tex/generic/pgf/utilities/pgfrcs.code.tex"
-("C:/Program Files/MiKTeX/tex/generic/pgf/pgf.revision.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex")
 Package: pgfrcs 2020/12/01 v3.1.7a (3.1.7a)
 ))
-("C:/Program Files/MiKTeX/tex/latex/pgf/utilities/pgfkeys.sty"
-("C:/Program Files/MiKTeX/tex/generic/pgf/utilities/pgfkeys.code.tex"
+("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty"
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex"
 \pgfkeys@pathtoks=\toks18
 \pgfkeys@temptoks=\toks19
 
-("C:/Program Files/MiKTeX/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex"
 \pgfkeys@tmptoks=\toks20
-))) ("C:/Program Files/MiKTeX/tex/latex/pgf/math/pgfmath.sty"
-("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmath.code.tex"
-("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathcalc.code.tex"
-("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathutil.code.tex"
+))) ("C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty"
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex"
 \pgf@x=\dimen144
 \pgf@xa=\dimen145
 \pgf@xb=\dimen146
@@ -627,44 +705,47 @@ Package: pgfrcs 2020/12/01 v3.1.7a (3.1.7a)
 \pgf@ya=\dimen149
 \pgf@yb=\dimen150
 \pgf@yc=\dimen151
-\c@pgf@counta=\count195
-\c@pgf@countb=\count196
-\c@pgf@countc=\count197
-\c@pgf@countd=\count198
+\c@pgf@counta=\count197
+\c@pgf@countb=\count198
+\c@pgf@countc=\count199
+\c@pgf@countd=\count266
 )
-("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathparser.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex"
 \pgfmath@dimen=\dimen152
-\pgfmath@count=\count199
+\pgfmath@count=\count267
 \pgfmath@box=\box49
 \pgfmath@toks=\toks21
 \pgfmath@stack@operand=\toks22
 \pgfmath@stack@operation=\toks23
 )
-("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfunctions.code.tex"
-("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex"
 )
-("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfunctions.trigonometric.c
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.c
 ode.tex")
-("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfunctions.random.code.tex
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex
 ")
-("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfunctions.comparison.code
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code
 .tex")
-("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfunctions.base.code.tex") ("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfunctions.round.code.tex") ("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex")
-("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfunctions.integerarithmet
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex
+")
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmet
 ics.code.tex")))
-("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count266
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count268
 )))
-("C:/Program Files/MiKTeX/tex/generic/pgf/utilities/pgffor.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex"
 Package: pgffor 2020/12/01 v3.1.7a (3.1.7a)
 
-("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmath.code.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex")
 \pgffor@iter=\dimen153
 \pgffor@skip=\dimen154
 \pgffor@stack=\toks24
 \pgffor@toks=\toks25
 ))
-("C:/Program Files/MiKTeX/tex/latex/titlesec/titlesec.sty"
+("C:\Program Files\MiKTeX\tex/latex/titlesec\titlesec.sty"
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \ttl@box=\box50
 \beforetitleunit=\skip49
@@ -676,33 +757,33 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidthlast=\dimen158
 \titlewidthfirst=\dimen159
 )
-("C:/Program Files/MiKTeX/tex/latex/pgf/frontendlayer/tikz.sty"
-("C:/Program Files/MiKTeX/tex/latex/pgf/basiclayer/pgf.sty"
+("C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty"
+("C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty"
 Package: pgf 2020/12/01 v3.1.7a (3.1.7a)
 
-("C:/Program Files/MiKTeX/tex/latex/pgf/basiclayer/pgfcore.sty"
-("C:/Program Files/MiKTeX/tex/latex/graphics/graphicx.sty"
+("C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty"
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:/Program Files/MiKTeX/tex/latex/graphics/graphics.sty"
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
 Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:/Program Files/MiKTeX/tex/latex/graphics/trig.sty"
+("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:/Program Files/MiKTeX/tex/latex/graphics-cfg/graphics.cfg"
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: luatex.def on input line 105.
+Package graphics Info: Driver file: xetex.def on input line 105.
 )
 \Gin@req@height=\dimen160
 \Gin@req@width=\dimen161
 )
-("C:/Program Files/MiKTeX/tex/latex/pgf/systemlayer/pgfsys.sty"
-("C:/Program Files/MiKTeX/tex/generic/pgf/systemlayer/pgfsys.code.tex"
+("C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty"
+("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex"
 Package: pgfsys 2020/12/01 v3.1.7a (3.1.7a)
 
-("C:/Program Files/MiKTeX/tex/generic/pgf/utilities/pgfkeys.code.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex")
 \pgf@x=\dimen162
 \pgf@y=\dimen163
 \pgf@xa=\dimen164
@@ -715,39 +796,44 @@ Package: pgfsys 2020/12/01 v3.1.7a (3.1.7a)
 \pgf@yd=\dimen171
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count267
-\c@pgf@countb=\count268
-\c@pgf@countc=\count269
-\c@pgf@countd=\count270
+\c@pgf@counta=\count269
+\c@pgf@countb=\count270
+\c@pgf@countc=\count271
+\c@pgf@countd=\count272
 \t@pgf@toka=\toks27
 \t@pgf@tokb=\toks28
 \t@pgf@tokc=\toks29
-\pgf@sys@id@count=\count271
+\pgf@sys@id@count=\count273
 
-("C:/Program Files/MiKTeX/tex/generic/pgf/systemlayer/pgf.cfg"
+("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg"
 File: pgf.cfg 2020/12/01 v3.1.7a (3.1.7a)
 )
-Driver file for pgf: pgfsys-luatex.def
+Driver file for pgf: pgfsys-xetex.def
 
-("C:/Program Files/MiKTeX/tex/generic/pgf/systemlayer/pgfsys-luatex.def"
-File: pgfsys-luatex.def 2020/12/01 v3.1.7a (3.1.7a)
+("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-xetex.def"
+File: pgfsys-xetex.def 2020/12/01 v3.1.7a (3.1.7a)
 
-("C:/Program Files/MiKTeX/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def"
+("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-dvipdfmx.def"
+File: pgfsys-dvipdfmx.def 2020/12/01 v3.1.7a (3.1.7a)
+
+("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def"
 File: pgfsys-common-pdf.def 2020/12/01 v3.1.7a (3.1.7a)
-))) ("C:/Program Files/MiKTeX/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.t
+)
+\pgfsys@objnum=\count274
+))) ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.t
 ex"
 File: pgfsyssoftpath.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgfsyssoftpath@smallbuffer@items=\count272
-\pgfsyssoftpath@bigbuffer@items=\count273
-) ("C:/Program Files/MiKTeX/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+\pgfsyssoftpath@smallbuffer@items=\count275
+\pgfsyssoftpath@bigbuffer@items=\count276
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 "
 File: pgfsysprotocol.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-)) ("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcore.code.tex"
+)) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex"
 Package: pgfcore 2020/12/01 v3.1.7a (3.1.7a)
 
-("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmath.code.tex")
-("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfint.code.tex")
-("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgf@picminx=\dimen172
 \pgf@picmaxx=\dimen173
@@ -764,94 +850,94 @@ File: pgfcorepoints.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgf@zx=\dimen184
 \pgf@zy=\dimen185
 )
-("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.
 tex"
 File: pgfcorepathconstruct.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgf@path@lastx=\dimen186
 \pgf@path@lasty=\dimen187
 )
-("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgf@shorten@end@additional=\dimen188
 \pgf@shorten@start@additional=\dimen189
-) ("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex"
 File: pgfcorescopes.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgfpic=\box51
 \pgf@hbox=\box52
 \pgf@layerbox@main=\box53
-\pgf@picture@serial@count=\count274
+\pgf@picture@serial@count=\count277
 )
-("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.t
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.t
 ex"
 File: pgfcoregraphicstate.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgflinewidth=\dimen190
 )
-("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcoretransformations.cod
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.cod
 e.tex"
 File: pgfcoretransformations.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgf@pt@x=\dimen191
 \pgf@pt@y=\dimen192
 \pgf@pt@temp=\dimen193
 )
-("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorequick.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex"
 File: pgfcorequick.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )
-("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex"
 File: pgfcoreobjects.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )
-("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code
 .tex"
 File: pgfcorepathprocessing.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )
-("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgfarrowsep=\dimen194
 )
-("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgf@max=\dimen195
-\pgf@sys@shading@range@num=\count275
-\pgf@shadingcount=\count276
+\pgf@sys@shading@range@num=\count278
+\pgf@shadingcount=\count279
 )
-("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex"
 File: pgfcoreimage.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 
-("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex"
 File: pgfcoreexternal.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgfexternal@startupbox=\box54
-)) ("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex"
+)) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex"
 File: pgfcorelayers.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )
-("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcoretransparency.code.t
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.t
 ex"
 File: pgfcoretransparency.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )
-("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex"
 File: pgfcorepatterns.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-) ("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex"
 File: pgfcorerdf.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )))
-("C:/Program Files/MiKTeX/tex/generic/pgf/modules/pgfmoduleshapes.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex"
 File: pgfmoduleshapes.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgfnodeparttextbox=\box55
 )
-("C:/Program Files/MiKTeX/tex/generic/pgf/modules/pgfmoduleplot.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex"
 File: pgfmoduleplot.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )
-("C:/Program Files/MiKTeX/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty"
+("C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty"
 Package: pgfcomp-version-0-65 2020/12/01 v3.1.7a (3.1.7a)
 \pgf@nodesepstart=\dimen196
 \pgf@nodesepend=\dimen197
-) ("C:/Program Files/MiKTeX/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+) ("C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.st
 y"
 Package: pgfcomp-version-1-18 2020/12/01 v3.1.7a (3.1.7a)
-)) ("C:/Program Files/MiKTeX/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex"
+)) ("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex"
 Package: tikz 2020/12/01 v3.1.7a (3.1.7a)
 
-("C:/Program Files/MiKTeX/tex/generic/pgf/libraries/pgflibraryplothandlers.code
+("C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code
 .tex"
 File: pgflibraryplothandlers.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgf@plot@mark@count=\count277
+\pgf@plot@mark@count=\count280
 \pgfplotmarksize=\dimen198
 )
 \tikz@lastx=\dimen199
@@ -866,32 +952,32 @@ File: pgflibraryplothandlers.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \tikz@figbox@bg=\box57
 \tikz@tempbox=\box58
 \tikz@tempbox@bg=\box59
-\tikztreelevel=\count278
-\tikznumberofchildren=\count279
-\tikznumberofcurrentchild=\count280
-\tikz@fig@count=\count281
+\tikztreelevel=\count281
+\tikznumberofchildren=\count282
+\tikznumberofcurrentchild=\count283
+\tikz@fig@count=\count284
 
-("C:/Program Files/MiKTeX/tex/generic/pgf/modules/pgfmodulematrix.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgfmatrixcurrentrow=\count282
-\pgfmatrixcurrentcolumn=\count283
-\pgf@matrix@numberofcolumns=\count284
+\pgfmatrixcurrentrow=\count285
+\pgfmatrixcurrentcolumn=\count286
+\pgf@matrix@numberofcolumns=\count287
 )
-\tikz@expandcount=\count285
+\tikz@expandcount=\count288
 
-("C:/Program Files/MiKTeX/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibr
+("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibr
 arytopaths.code.tex"
 File: tikzlibrarytopaths.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )))
-("C:/Program Files/MiKTeX/tex/latex/geometry/geometry.sty"
+("C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty"
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-("C:/Program Files/MiKTeX/tex/generic/iftex/ifvtex.sty"
+("C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty"
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count286
-\Gm@cntv=\count287
-\c@Gm@tempcnt=\count288
+\Gm@cnth=\count289
+\Gm@cntv=\count290
+\c@Gm@tempcnt=\count291
 \Gm@bindingoffset=\dimen263
 \Gm@wd@mp=\dimen264
 \Gm@odd@mp=\dimen265
@@ -902,60 +988,59 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen270
 \Gm@dimlist=\toks30
 
-("C:/Program Files/MiKTeX/tex/latex/geometry/geometry.cfg"))
-("C:/Program Files/MiKTeX/tex/latex/hyperref/hyperref.sty"
+("C:\Program Files\MiKTeX\tex/xelatex/xetexconfig\geometry.cfg"))
+("C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty"
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
 
-("C:/Program Files/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty"
+("C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty"
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-("C:/Program Files/MiKTeX/tex/generic/pdftexcmds/pdftexcmds.sty"
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+("C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
 
-
-("C:/Program Files/MiKTeX/tex/generic/infwarerr/infwarerr.sty"
+("C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty"
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks31
+Package pdftexcmds Info: \pdfdraftmode not found.
 )
-("C:/Program Files/MiKTeX/tex/generic/kvsetkeys/kvsetkeys.sty"
+("C:\Program Files\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty"
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-("C:/Program Files/MiKTeX/tex/generic/kvdefinekeys/kvdefinekeys.sty"
+("C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty"
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-("C:/Program Files/MiKTeX/tex/generic/pdfescape/pdfescape.sty"
+("C:\Program Files\MiKTeX\tex/generic/pdfescape\pdfescape.sty"
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-("C:/Program Files/MiKTeX/tex/latex/hycolor/hycolor.sty"
+("C:\Program Files\MiKTeX\tex/latex/hycolor\hycolor.sty"
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-("C:/Program Files/MiKTeX/tex/latex/letltxmacro/letltxmacro.sty"
+("C:\Program Files\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty"
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-("C:/Program Files/MiKTeX/tex/latex/auxhook/auxhook.sty"
+("C:\Program Files\MiKTeX\tex/latex/auxhook\auxhook.sty"
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-("C:/Program Files/MiKTeX/tex/latex/kvoptions/kvoptions.sty"
+("C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty"
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen271
-\Hy@linkcounter=\count289
-\Hy@pagecounter=\count290
+\Hy@linkcounter=\count292
+\Hy@pagecounter=\count293
 
-("C:/Program Files/MiKTeX/tex/latex/hyperref/pd1enc.def"
+("C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def"
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 )
-("C:/Program Files/MiKTeX/tex/generic/intcalc/intcalc.sty"
+("C:\Program Files\MiKTeX\tex/generic/intcalc\intcalc.sty"
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-("C:/Program Files/MiKTeX/tex/generic/etexcmds/etexcmds.sty"
+("C:\Program Files\MiKTeX\tex/generic/etexcmds\etexcmds.sty"
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count291
+\Hy@SavedSpaceFactor=\count294
 Package hyperref Info: Hyper figures OFF on input line 4464.
 Package hyperref Info: Link nesting OFF on input line 4469.
 Package hyperref Info: Hyper index ON on input line 4472.
@@ -963,23 +1048,24 @@ Package hyperref Info: Plain pages OFF on input line 4479.
 Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count292
+\c@Hy@tempcnt=\count295
 
-("C:/Program Files/MiKTeX/tex/latex/url/url.sty"
+("C:\Program Files\MiKTeX\tex/latex/url\url.sty"
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5076.
 \XeTeXLinkMargin=\dimen272
+Requested font "pzdr" at 0.00002pt
 
-("C:/Program Files/MiKTeX/tex/generic/bitset/bitset.sty"
+("C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty"
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-("C:/Program Files/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty"
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
-
+("C:\Program Files\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
 ))
-\Fld@menulength=\count293
+\Fld@menulength=\count296
 \Field@Width=\dimen273
 \Fld@charsize=\dimen274
 Package hyperref Info: Hyper figures OFF on input line 6347.
@@ -992,67 +1078,86 @@ Package hyperref Info: PDF/A mode OFF on input line 6377.
 LaTeX Info: Redefining \ref on input line 6417.
 LaTeX Info: Redefining \pageref on input line 6421.
 
-("C:/Program Files/MiKTeX/tex/latex/base/atbegshi-ltx.sty"
-Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packag
+("C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty"
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count297
+\c@Item=\count298
+\c@Hfootnote=\count299
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+("C:\Program Files\MiKTeX\tex/latex/hyperref\hxetex.def"
+File: hxetex.def 2020-05-15 v7.00e Hyperref driver for XeTeX
+
+("C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def"
+File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
+)
+("C:\Program Files\MiKTeX\tex/generic/stringenc\stringenc.sty"
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box60
+\c@Hy@AnnotLevel=\count300
+\HyField@AnnotCount=\count301
+\Fld@listcount=\count302
+\c@bookmark@seq@number=\count303
+
+("C:\Program Files\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+("C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty"
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
 )
-\Hy@abspage=\count294
-\c@Item=\count295
-\c@Hfootnote=\count296
-)
-Package hyperref Info: Driver (autodetected): hluatex.
-
-("C:/Program Files/MiKTeX/tex/latex/hyperref/hluatex.def"
-File: hluatex.def 2020-05-15 v7.00e Hyperref driver for luaTeX
-
-("C:/Program Files/MiKTeX/tex/latex/hyperref/puenc.def"
-File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
-)
-("C:/Program Files/MiKTeX/tex/generic/stringenc/stringenc.sty"
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
-
-)
-("C:/Program Files/MiKTeX/tex/latex/base/atveryend-ltx.sty"
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery package
-
-with kernel methods
-)
-\Fld@listcount=\count297
-\c@bookmark@seq@number=\count298
-
-("C:/Program Files/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty"
-Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
-
-("C:/Program Files/MiKTeX/tex/generic/uniquecounter/uniquecounter.sty"
+("C:\Program Files\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty"
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
-6.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
 )
 \Hy@SectionHShift=\skip51
 )
-("C:/Program Files/MiKTeX/tex/latex/fontawesome/fontawesome.sty"
+("C:\Program Files\MiKTeX\tex/latex/fontawesome\fontawesome.sty"
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 
-("C:/Program Files/MiKTeX/tex/latex/fontawesome/fontawesomesymbols-generic.tex"
+("C:\Program Files\MiKTeX\tex/latex/fontawesome\fontawesomesymbols-generic.tex"
 )
-luaotfload | cache : Lookup cache loaded from C:/Users/AldoFranco/AppData/Local/
-MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
-luaotfload | aux : font no 73 (nil) defines no feature for script latn
-luaotfload | aux : font no 73 (nil) defines no feature for script dflt
+Requested font "FontAwesome" at 10.94997pt
+ -> C:/Program Files/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb
+Requested font "FontAwesome/OT" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb
+Requested font "FontAwesome/OT:language=dflt;" at 10.95001pt
+ -> C:/Program Files/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb
+Requested font "FontAwesome/BI/OT:language=dflt;" at 10.95001pt
+ -> C:/Program Files/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb
 
 Package fontspec Info: Could not resolve font "FontAwesome/BI" (it probably
 (fontspec)             doesn't exist).
 
+Requested font "FontAwesome/OT:language=dflt;" at 10.95001pt
+ -> C:/Program Files/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb
+Requested font "FontAwesome/B/OT:language=dflt;" at 10.95001pt
+ -> C:/Program Files/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb
 
 Package fontspec Info: Could not resolve font "FontAwesome/B" (it probably
 (fontspec)             doesn't exist).
 
+Requested font "FontAwesome/OT:language=dflt;" at 10.95001pt
+ -> C:/Program Files/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb
+Requested font "FontAwesome/I/OT:language=dflt;" at 10.95001pt
+ -> C:/Program Files/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb
 
 Package fontspec Info: Could not resolve font "FontAwesome/I" (it probably
 (fontspec)             doesn't exist).
 
+Requested font "FontAwesome/OT:language=dflt;" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb
+Requested font "FontAwesome/OT:language=dflt;" at 10.95003pt
+ -> C:/Program Files/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb
 
 Package fontspec Info: Font family 'FontAwesome(0)' created for font
 (fontspec)             'FontAwesome' with options [].
@@ -1061,42 +1166,45 @@ Package fontspec Info: Font family 'FontAwesome(0)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"FontAwesome:mode=node;language=dflt;"
+(fontspec)             <->"FontAwesome/OT:language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
-("C:/Program Files/MiKTeX/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex
-")) ("C:/Program Files/MiKTeX/tex/latex/mfirstuc/mfirstuc.sty"
+("C:\Program Files\MiKTeX\tex/latex/fontawesome\fontawesomesymbols-xeluatex.tex
+")) ("C:\Program Files\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty"
 Package: mfirstuc 2017/11/14 v2.06 (NLCT)
-\@glsmfirst=\toks32
-\@glsmrest=\toks33
+\@glsmfirst=\toks31
+\@glsmrest=\toks32
 )
-("C:/Program Files/MiKTeX/tex/latex/base/ifthen.sty"
+("C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:/Program Files/MiKTeX/tex/latex/lipsum/lipsum.sty"
+("C:\Program Files\MiKTeX\tex/latex/lipsum\lipsum.sty"
 Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
 
-("C:/Program Files/MiKTeX/tex/latex/lipsum/lipsum.ltd.tex"
+("C:\Program Files\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex"
 File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
 ))
-("C:/Program Files/MiKTeX/tex/latex/tools/array.sty"
+("C:\Program Files\MiKTeX\tex/latex/tools\array.sty"
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen275
-\ar@mcellbox=\box60
+\ar@mcellbox=\box61
 \extrarowheight=\dimen276
-\NC@list=\toks34
+\NC@list=\toks33
 \extratabsurround=\skip52
 \backup@length=\skip53
-\ar@cellbox=\box61
+\ar@cellbox=\box62
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 46.
-\picbox=\box62
+\picbox=\box63
 )
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/n' will be
 (Font)              scaled to size 10.95pt on input line 12.
- (./CV_Aldo_Ingles.aux)
-\openout1 = CV_Aldo_Ingles.aux
+Requested font "[NotoSans-Regular.ttf]/OT:script=latn;language=dflt;+tnum;+lnum
+;mapping=tex-text;" at 10.95pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Regular.ttf
+ (CV_Aldo_Ingles.aux)
+\openout1 = `CV_Aldo_Ingles.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
@@ -1107,10 +1215,10 @@ LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 12
-.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+2.
 
-("C:/Program Files/MiKTeX/tex/latex/base/ts1cmr.fd"
+("C:\Program Files\MiKTeX\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 12.
@@ -1124,25 +1232,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
-
-("C:/Program Files/MiKTeX/tex/context/base/mkii/supp-pdf.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count299
-\scratchdimen=\dimen277
-\scratchbox=\box63
-\nofMPsegments=\count300
-\nofMParguments=\count301
-\everyMPshowfont=\toks35
-\MPscratchCnt=\count302
-\MPscratchDim=\dimen278
-\MPnumerator=\count303
-\makeMPintoPDFobject=\count304
-\everyMPtoPDFconversion=\toks36
-) ("C:/Program Files/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty"
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
-5.
-)
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
@@ -1183,33 +1272,33 @@ LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/NotoSerif(0)/m/n on input line 12.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/NotoSerif(0)/m/n --> TU/NotoSerif(0)/m/n on input lin
-e 12.
+(Font)                  TU/NotoSerif(0)/m/n --> TU/NotoSerif(0)/m/n on input li
+ne 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/NotoSerif(0)/m/it on input line 12.
+
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/NotoSerif(0)/b/n on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> TU/NotoSans(0)/m/n on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/NotoSansMono(0)/m/n on input line 12
-.
+(Font)                  OT1/cmtt/m/n --> TU/NotoSansMono(0)/m/n on input line 1
+2.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/NotoSerif(0)/m/n --> TU/NotoSerif(0)/b/n on input lin
-e 12.
+(Font)                  TU/NotoSerif(0)/m/n --> TU/NotoSerif(0)/b/n on input li
+ne 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/NotoSerif(0)/b/it on input line 12.
-
+(Font)                  OT1/cmr/bx/it --> TU/NotoSerif(0)/b/it on input line 12
+.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/NotoSans(0)/b/n on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/NotoSansMono(0)/b/n on input line 12
-.
+(Font)                  OT1/cmtt/m/n --> TU/NotoSansMono(0)/b/n on input line 1
+2.
 
-*geometry* driver: auto-detecting
-*geometry* detected driver: luatex
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: luatex
+* driver: pdftex
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -1241,65 +1330,119 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring ON on input line 12.
-("C:/Program Files/MiKTeX/tex/latex/hyperref/nameref.sty"
+("C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
-("C:/Program Files/MiKTeX/tex/latex/refcount/refcount.sty"
+("C:\Program Files\MiKTeX\tex/latex/refcount\refcount.sty"
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-("C:/Program Files/MiKTeX/tex/generic/gettitlestring/gettitlestring.sty"
+("C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count305
+\c@section@level=\count304
 )
 LaTeX Info: Redefining \ref on input line 12.
 LaTeX Info: Redefining \pageref on input line 12.
 LaTeX Info: Redefining \nameref on input line 12.
 
-(./CV_Aldo_Ingles.out) (./CV_Aldo_Ingles.out)
+(CV_Aldo_Ingles.out) (CV_Aldo_Ingles.out)
 \@outlinefile=\write4
+\openout4 = `CV_Aldo_Ingles.out'.
 
-\openout4 = CV_Aldo_Ingles.out
-
-warning  (file images/aldo_center.jpg) (readjpg): Exif resolution 72dpi x 72dpi 
-differs from the input resolution 96dpi x 96dpi
-<images/aldo_center.jpg, id=30, 1821.05344pt x 2542.24782pt>
-File: images/aldo_center.jpg Graphic file (type jpg)
-<use images/aldo_center.jpg>
-Package luatex.def Info: images/aldo_center.jpg  used on input line 16.
-(luatex.def)             Requested size: 72.82973pt x 101.67259pt.
+File: images/aldo_center.jpg Graphic file (type bmp)
+<images/aldo_center.jpg>
+Requested font "[NotoSerif-Regular.ttf]/OT:script=latn;language=dflt;+tnum;+lnu
+m;mapping=tex-text;" at 8.0pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSerif-Regular.ttf
+Requested font "[NotoSerif-Regular.ttf]/OT:script=latn;language=dflt;+tnum;+lnu
+m;mapping=tex-text;" at 6.0pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSerif-Regular.ttf
+Requested font "cmmi10" at 10.95pt
+Requested font "cmmi8" at 8.0pt
+Requested font "cmmi6" at 6.0pt
+Requested font "cmsy10" at 10.95pt
+Requested font "cmsy8" at 8.0pt
+Requested font "cmsy6" at 6.0pt
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 16.
+Requested font "cmr10" at 10.95pt
+Requested font "cmr8" at 8.0pt
+Requested font "cmr6" at 6.0pt
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 16.
+Requested font "[NotoSans-Regular.ttf]/OT:script=latn;language=dflt;+tnum;+lnum
+;mapping=tex-text;" at 12.0pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Regular.ttf
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/sc' will be
 (Font)              scaled to size 12.0pt on input line 16.
+Requested font "[NotoSans-Regular.ttf]/OT:script=latn;language=dflt;+tnum;+lnum
+;+smcp;mapping=tex-text;" at 12.0pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Regular.ttf
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 16.
+Requested font "[NotoSans-Regular.ttf]/OT:script=latn;language=dflt;+tnum;+lnum
+;mapping=tex-text;" at 10.0pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Regular.ttf
+Requested font "FontAwesome/OT:language=dflt;" at 10.0pt
+ -> C:/Program Files/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb
+Missing character: There is no  in font FontAwesome Regular/OT:language=dflt;!
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 16.
+Requested font "[NotoSans-Regular.ttf]/OT:script=latn;language=dflt;+tnum;+lnum
+;mapping=tex-text;" at 9.0pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Regular.ttf
+Missing character: There is no  in font FontAwesome Regular/OT:language=dflt;!
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/n' will be
 (Font)              scaled to size 12.0pt on input line 27.
+Requested font "[NotoSans-Bold.ttf]/OT:script=latn;language=dflt;+tnum;+lnum;ma
+pping=tex-text;" at 12.0pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Bold.ttf
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/sc' will be
 (Font)              scaled to size 12.0pt on input line 27.
+Requested font "[NotoSans-Bold.ttf]/OT:script=latn;language=dflt;+tnum;+lnum;+s
+mcp;mapping=tex-text;" at 12.0pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Bold.ttf
+
+("C:\Program Files\MiKTeX\tex/generic/stringenc\se-ascii-print.def"
+File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
+
+)
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/sc' will be
 (Font)              scaled to size 10.0pt on input line 29.
+Requested font "[NotoSans-Regular.ttf]/OT:script=latn;language=dflt;+tnum;+lnum
+;+smcp;mapping=tex-text;" at 10.0pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Regular.ttf
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/sc' will be
 (Font)              scaled to size 10.0pt on input line 29.
+Requested font "[NotoSans-Bold.ttf]/OT:script=latn;language=dflt;+tnum;+lnum;+s
+mcp;mapping=tex-text;" at 10.0pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Bold.ttf
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/it' will be
 (Font)              scaled to size 10.95pt on input line 29.
+Requested font "[NotoSans-Italic.ttf]/OT:script=latn;language=dflt;+tnum;+lnum;
+mapping=tex-text;" at 10.95pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Italic.ttf
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/it' will be
 (Font)              scaled to size 9.0pt on input line 29.
+Requested font "[NotoSans-Italic.ttf]/OT:script=latn;language=dflt;+tnum;+lnum;
+mapping=tex-text;" at 9.0pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Italic.ttf
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/sc' will be
 (Font)              scaled to size 10.95pt on input line 30.
+Requested font "[NotoSans-Regular.ttf]/OT:script=latn;language=dflt;+tnum;+lnum
+;+smcp;mapping=tex-text;" at 10.95pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Regular.ttf
 LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/sc' will be
 (Font)              scaled to size 9.0pt on input line 30.
+Requested font "[NotoSans-Regular.ttf]/OT:script=latn;language=dflt;+tnum;+lnum
+;+smcp;mapping=tex-text;" at 9.0pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Regular.ttf
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
 
  []
 
@@ -1309,89 +1452,97 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--44
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--60
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--78
+Underfull \hbox (badness 10000) in paragraph at lines 29--68
 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 92.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 92.
-LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/sc' will be
-(Font)              scaled to size 9.0pt on input line 92.
-LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/n' will be
-(Font)              scaled to size 9.0pt on input line 92.
-LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/it' will be
-(Font)              scaled to size 9.0pt on input line 92.
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--94
+Underfull \hbox (badness 10000) in paragraph at lines 73--86
 
  []
 
 [1
 
-{C:/Users/AldoFranco/AppData/Local/MiKTeX/pdftex/config/pdftex.map}<./images/ald
-o_center.jpg
-warning  (readjpg): Exif resolution 72dpi x 72dpi differs from the input resolut
-ion 96dpi x 96dpi
->]
-Underfull \hbox (badness 10000) in paragraph at lines 99--106
+]
+Requested font "[NotoSerif-Regular.ttf]/OT:script=latn;language=dflt;+tnum;+lnu
+m;mapping=tex-text;" at 9.0pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSerif-Regular.ttf
+Requested font "[NotoSerif-Regular.ttf]/OT:script=latn;language=dflt;+tnum;+lnu
+m;mapping=tex-text;" at 5.0pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSerif-Regular.ttf
+Requested font "cmmi9" at 9.0pt
+Requested font "cmsy9" at 9.0pt
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 101.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 101.
+Requested font "cmr9" at 9.0pt
+LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/sc' will be
+(Font)              scaled to size 9.0pt on input line 101.
+Requested font "[NotoSans-Bold.ttf]/OT:script=latn;language=dflt;+tnum;+lnum;+s
+mcp;mapping=tex-text;" at 9.0pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Bold.ttf
+LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/n' will be
+(Font)              scaled to size 9.0pt on input line 101.
+Requested font "[NotoSans-Bold.ttf]/OT:script=latn;language=dflt;+tnum;+lnum;ma
+pping=tex-text;" at 9.0pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Bold.ttf
+LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/it' will be
+(Font)              scaled to size 9.0pt on input line 101.
+Requested font "[NotoSans-BoldItalic.ttf]/OT:script=latn;language=dflt;+tnum;+l
+num;mapping=tex-text;" at 9.0pt
+ -> C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-BoldItalic.ttf
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--122
+Underfull \hbox (badness 10000) in paragraph at lines 107--114
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--122
+Underfull \hbox (badness 10000) in paragraph at lines 118--130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--129
+Underfull \hbox (badness 10000) in paragraph at lines 118--130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--129
+Underfull \hbox (badness 10000) in paragraph at lines 133--137
 
  []
 
-[2] (./CV_Aldo_Ingles.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--137
+
+ []
+
+[2] (CV_Aldo_Ingles.aux)
 Package rerunfilecheck Info: File `CV_Aldo_Ingles.out' has not changed.
-(rerunfilecheck)             Checksum: B1DCD0A6CB82D42D76895D2C603B9CDC;564.
-)
+(rerunfilecheck)             Checksum: 8507B569A8609A56F952B7275E13310B;270.
+ ) 
+Here is how much of TeX's memory you used:
+ 24452 strings out of 412095
+ 480198 string characters out of 2851369
+ 991301 words of memory out of 3000000
+ 43630 multiletter control sequences out of 15000+200000
+ 408033 words of font info for 114 fonts, out of 3000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 122i,8n,128p,432b,983s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Here is how much of LuaTeX's memory you used:
- 25347 strings out of 478903
- 100000,1144653 words of node,token memory allocated
- 438 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 53 glue_spec,
- 5 attribute_list, 2 write nodes
-   avail lists: 2:852,3:366,4:232,5:263,6:44,7:5386,8:32,9:346,10:23,11:415
- 44007 multiletter control sequences out of 65536+200000
- 111 fonts using 39372303 bytes
- 122i,10n,125p,420b,1031s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-BoldItalic.ttf><C:/
-Program Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Italic.ttf><C:/Program 
-Files/MiKTeX/fonts/truetype/google/noto/NotoSans-Bold.ttf><C:/Program Files/MiKT
-eX/fonts/opentype/public/fontawesome/fontawesome.otf><C:/Program Files/MiKTeX/fo
-nts/truetype/google/noto/NotoSans-Regular.ttf>
-Output written on CV_Aldo_Ingles.pdf (2 pages, 997658 bytes).
-
-PDF statistics: 96 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 131072)
- 64 words of extra memory for PDF output out of 10000 (max. 100000000)
-
+Output written on CV_Aldo_Ingles.pdf (2 pages).
